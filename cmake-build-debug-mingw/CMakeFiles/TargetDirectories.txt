@@ -1,0 +1,3 @@
+C:/Users/sr162/Desktop/network/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/sr162/Desktop/network/cmake-build-debug-mingw/CMakeFiles/network.dir
+C:/Users/sr162/Desktop/network/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir

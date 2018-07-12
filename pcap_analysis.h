@@ -1,0 +1,8 @@
+
+#ifndef NETWORK_PCAP_ANALYSIS_H
+#define NETWORK_PCAP_ANALYSIS_H
+
+
+int analysis();
+
+#endif //NETWORK_PCAP_ANALYSIS_H
